@@ -32,7 +32,7 @@ const initOnboard = init({
     ],
     appMetadata: {
         name: 'RoboDucks',
-        icon: ApeIcon,
+        icon: 'an icon',
         description: 'We are some Robo Ducks',
         recommendedInjectedWallets: [
             { name: 'MetaMask', url: 'https://metamask.io' }
